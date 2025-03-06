@@ -6,10 +6,6 @@ format: html
 jupyter: python3
 ---
 
-1조: 구경민, 구교빈, 권서연
-
-작성일: 2025년 3월 06일
-
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuhrP3xaNK-ni0uifTDiiUe9Ly3x3gtNtImA&s)
 
 ## Content
@@ -20,6 +16,8 @@ jupyter: python3
 4.  \[Q2\] 펭귄의 각 개체에 대한 지역별 개체수는 어떻게 되어있는가?
 5.  \[Q3\] 펭귄의 종별 부리 길이 분포는 어떻게 구성되어 있는가?
 6.  결론
+
+<br>
 
 ## 1. 문제 정의
 
