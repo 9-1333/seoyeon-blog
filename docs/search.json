@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "seoyeon-blog",
     "section": "",
-    "text": "펭귄유괴단\n\n\n\n\n\n\n\n\n\n\n\nMar 6, 2025\n\n\n1조: 구경민, 구교빈, 권서연\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nMar 6, 2025\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nMar 3, 2025\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+    "text": "첫번째 블로그 포스트트\n\n\n\n\n\n\npython\n\n\npandas\n\n\nnumpy\n\n\n\n\n\n\n\n\n\nMar 7, 2025\n\n\nSeoyeon Kwon\n\n\n\n\n\n\n\n\n\n\n\n\n펭귄유괴단\n\n\n\n\n\n\n\n\n\n\n\nMar 6, 2025\n\n\n1조: 구경민, 구교빈, 권서연\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nMar 6, 2025\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nMar 3, 2025\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/post-with-code/index.html",
@@ -180,5 +180,19 @@
     "title": "펭귄유괴단",
     "section": "6. 결론",
     "text": "6. 결론\n우리 펭귄유괴단은 고객의 요구사항에 맞는 펭귄을 밀렵을 위해 위의 분석에 따라 다음과 같이 밀렵 계획을 수립하였다.\n\n목표 종: Gentoo\n위치: Biscoe 섬\n\n목표 종인 Gentoo는 수컷의 비중이 더 높은 성비이므로 지속가능한 밀렵을 위해 수컷을 조금 더 많이 사냥하는 것으로 한다."
+  },
+  {
+    "objectID": "posts/my-first-post/index.html",
+    "href": "posts/my-first-post/index.html",
+    "title": "첫번째 블로그 포스트트",
+    "section": "",
+    "text": "넘파이 패키지를 불러옵시다!\n\nimport numpy as np\n\na = np.array([3, 2, 1])\na\n\narray([3, 2, 1])\n\n\n\n\n\n\nimport pandas as pd"
+  },
+  {
+    "objectID": "posts/my-first-post/index.html#파이썬-데이터-분석",
+    "href": "posts/my-first-post/index.html#파이썬-데이터-분석",
+    "title": "첫번째 블로그 포스트트",
+    "section": "",
+    "text": "넘파이 패키지를 불러옵시다!\n\nimport numpy as np\n\na = np.array([3, 2, 1])\na\n\narray([3, 2, 1])\n\n\n\n\n\n\nimport pandas as pd"
   }
 ]
