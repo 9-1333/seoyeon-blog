@@ -1,0 +1,64 @@
+{
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {},
+      "source": [
+        "---\n",
+        "title: \"첫번째 블로그 포스트트\"\n",
+        "author: \"Seoyeon Kwon\"\n",
+        "date: \"2025-03-07\"\n",
+        "categories: [python, pandas, numpy]\n",
+        "image: image.jpg\n",
+        "---\n",
+        "\n",
+        "\n",
+        "## 파이썬 데이터 분석\n",
+        "### 넘파이\n",
+        "넘파이 패키지를 불러옵시다!\n"
+      ],
+      "id": "4ec08c99"
+    },
+    {
+      "cell_type": "code",
+      "metadata": {},
+      "source": [
+        "import numpy as np\n",
+        "\n",
+        "a = np.array([3, 2, 1])\n",
+        "a"
+      ],
+      "id": "24b2ca32",
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {},
+      "source": [
+        "### 판다스스\n"
+      ],
+      "id": "9c65e148"
+    },
+    {
+      "cell_type": "code",
+      "metadata": {},
+      "source": [
+        "import pandas as pd"
+      ],
+      "id": "4484667b",
+      "execution_count": null,
+      "outputs": []
+    }
+  ],
+  "metadata": {
+    "kernelspec": {
+      "name": "python3",
+      "language": "python",
+      "display_name": "Python 3 (ipykernel)",
+      "path": "C:\\Users\\USER\\AppData\\Local\\Programs\\Python\\Python39\\share\\jupyter\\kernels\\python3"
+    }
+  },
+  "nbformat": 4,
+  "nbformat_minor": 5
+}

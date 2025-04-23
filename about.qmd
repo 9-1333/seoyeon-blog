@@ -10,8 +10,8 @@ about:
     - icon: github
       text: Github
       href: https://github.com/9-1333/seoyeon-blog
-
 ---
 
-안녕하세요! ::smile::
+안녕하세요! 😍😍
 
+권서연의 블로그입니다
