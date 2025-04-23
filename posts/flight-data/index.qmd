@@ -1,0 +1,10 @@
+---
+title: "NYC Flights 데이터 분석"
+author: "7조: 권서연, 김민채, 박재원, 오상원"
+date: "2025-04-23"
+format: html
+jupyter: python3
+image: thumbnail.png
+---
+
+내용 ...
